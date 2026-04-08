@@ -38,3 +38,7 @@
 ![sketch](sketch.jpg)
 - As-is: Tra cứu chuyến bay → Bot hỏi "Quý khách muốn tra cứu theo phương án nào?" (Nút bấm) → User không có thông tin để nhập.
 - To-be: Tra cứu chuyến bay → Bot hiện: "Quý khách muốn tra cứu hành trình nào?" → User click chọn → Bot hiện danh sách mã chuyến bay, thời gian và giá vé
+
+## Share + vote
+
+Em chọn nâng cấp Path 3 (Khi AI sai). Hiện tại NEO đang bắt user đi sâu vào menu để sửa category. Em đề xuất cải tiến UI với “Gợi ý nhanh” ngay tại màn hình chính và thêm nút “Remember this” để AI thực sự thông minh hơn sau mỗi lần user sửa lỗi, thay vì lặp lại lỗi cũ. Vả nhóm đã thống nhất ý kiến và vote cho bài làm của em.
