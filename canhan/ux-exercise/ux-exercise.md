@@ -23,7 +23,7 @@
 ### 4. User mất niềm tin
 - User hỏi: "Giá vé VN213 ngày mai".
 - NEO có Exit path rất rõ: Ngay lập tức hiện hotline và nút "Gặp tư vấn viên".
-- Nhân viên liên hệ lại trong đoạn chat sau một thời gian ngắn sau khi bấm nút và trả lời câu hỏi.
+- NEO luôn báo không có thông tin và đưa hotline cùng nút "Gặp tư vấn viên" cho đến khi liên hệ tư vấn viên để nhận được kết quả.
 
 ## Path yếu nhất: Path 2 + 3
 - Khi thông tin đầu vào mơ hồ, AI chọn bừa một kết quả thay vì gợi ý menu lựa chọn.
